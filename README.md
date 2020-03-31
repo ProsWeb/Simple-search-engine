@@ -4,4 +4,4 @@
 
 В коде используются inverted index для увеличения скорости поиска и strategy design pattern.
 
-![Alt Text](https://github.com/ProsWeb/Simple-search-engine/download.gif)
+![Alt Text](https://github.com/ProsWeb/Simple-search-engine/blob/master/download.gif)
